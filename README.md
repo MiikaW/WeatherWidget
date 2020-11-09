@@ -1,5 +1,5 @@
 # weatherwidget
-> Simple weather website project for experimentation purposes. Automatically shows the current city, temperature, time, and date. Weather information is fetched from FMI with IP address location.
+Simple weather website project for experimentation purposes. Automatically shows the current city, temperature, time, and date. Weather information is fetched from FMI with IP address location.
 
 
 ![Animated weather widget demo](https://github.com/miikaw/weatherwidget/blob/main/imgs/WidgetDemo.gif?raw=true) 
