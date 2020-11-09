@@ -2,9 +2,19 @@
 > Simple weather website "widget" for experimentation purposes. Automatically shows the current city, temperature, time, and date. Weather information is fetched from FMI with IP address location.
 
 
-![alt text](https://github.com/miikaw/weatherwidget/blob/main/imgs/WidgetBeta.jpg?raw=true)
-
 ![alt text](https://github.com/miikaw/weatherwidget/blob/main/imgs/WeatherSymbols.gif?raw=true)
+
+![alt text](https://github.com/miikaw/weatherwidget/blob/main/imgs/WidgetConsoleLog.jpg?raw=true)
+
+
+## Features
+
+* Automatically shows the current city, temperature, time, and date on the widget-like website
+* Gets general location (city) from users IP address and fetches open weather data from FMI according to this
+* If usable IP address or location is not found, it uses preset: Helsinki
+
+
+
 
 ## Usage
 
