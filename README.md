@@ -50,11 +50,11 @@ Usage example:
 
 ## Important notes
 
-This project is experimental and does not currently take advantage of all the features it could. For example, the weather icons are not connected to the weather data and have to be manually set in the demo.
+This project is experimental and does not currently take advantage of all the features it could. For example, the weather icons are not connected to the weather data and have to be manually set in the demo. Also, the code itself is not well optimized or simplified.
 
-This project also lacks comprehensive documentation and most likely will not be developed any further.
+This project also lacks comprehensive documentation and most likely will not be updated or developed any further.
 
 
 ### All open weather data and FMIODATA logo belong to Finnish Meteorological Institute or Ilmatieteen laitos: https://www.ilmatieteenlaitos.fi/avoin-data
 
-## This project is made for experimental and educational purposes.
+## This project is made for personal experimental and educational purposes.
