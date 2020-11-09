@@ -12,6 +12,7 @@ Simple weather website project for experimentation purposes. Automatically shows
 * Automatically shows the current city, temperature, time, and date on the widget-like website
 * Gets general location (city) from users IP address and fetches open weather data from FMI according to this
 * If usable IP address or location is not found, it uses preset: Helsinki
+* Widget fits any screen size with correct dimensions
 
 
 
