@@ -1,5 +1,5 @@
 # WeatherWidget
-Simple weather website project for experimentation purposes. Automatically shows the current city, temperature, time, and date. Weather information is fetched from FMI with IP address location.
+Simple weather website project for experimentation purposes. Automatically shows the current city, temperature, time, and date. Weather information is fetched from the Finnish Meteorological Institute's open data with users' IP address location.
 
 
 ![Animated weather widget demo](https://github.com/miikaw/weatherwidget/blob/main/imgs/WidgetDemo.gif?raw=true) 
@@ -12,7 +12,7 @@ Simple weather website project for experimentation purposes. Automatically shows
 * Automatically shows the current city, temperature, time, and date on the widget-like website
 * Gets general location (city) from users IP address and fetches open weather data from FMI according to this
 * If usable IP address or location is not found, it uses preset: Helsinki
-* Widget fits any screen size with correct dimensions
+* Widget fits any screen and browser size with the correct dimensions
 
 
 
@@ -57,7 +57,8 @@ This project is experimental and does not currently take advantage of all the fe
 
 This project also lacks comprehensive documentation and most likely will not be updated or developed any further.
 
+---------------------------------------
 
-### All open weather data used in this project and FMIODATA logo belong to Finnish Meteorological Institute or Ilmatieteen laitos: https://www.ilmatieteenlaitos.fi/avoin-data
+### All open weather data used in this project and FMIODATA logo belong to Finnish Meteorological Institute or Ilmatieteen laitos: https://en.ilmatieteenlaitos.fi/open-data
 
 ## This project is made for personal experimental and educational purposes.
