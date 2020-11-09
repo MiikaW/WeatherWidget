@@ -53,3 +53,8 @@ Usage example:
 This project is experimental and does not currently take advantage of all the features it could. For example, the weather icons are not connected to the weather data and have to be manually set in the demo.
 
 This project also lacks comprehensive documentation and most likely will not be developed any further.
+
+
+### All open weather data and FMIODATA logo belong to Finnish Meteorological Institute or Ilmatieteen laitos: https://www.ilmatieteenlaitos.fi/avoin-data
+
+## This project is made for experimental and educational purposes.
