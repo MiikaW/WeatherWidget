@@ -1,5 +1,5 @@
 # weatherwidget
-> Simple weather website "widget" for experimentation purposes. Automatically shows the current city, temperature, time, and date. Weather information is fetched from FMI with IP address location.
+> Simple weather website project for experimentation purposes. Automatically shows the current city, temperature, time, and date. Weather information is fetched from FMI with IP address location.
 
 
 ![alt text](https://github.com/miikaw/weatherwidget/blob/main/imgs/WeatherSymbols.gif?raw=true)
@@ -50,11 +50,13 @@ Usage example:
 
 ## Important notes
 
+The main purpose of this project was to learn and experiment with XML weather data fetching and user location with web technologies (& JavaScript).
+
 This project is experimental and does not currently take advantage of all the features it could. For example, the weather icons are not connected to the weather data and have to be manually set in the demo. Also, the code itself is not well optimized or simplified.
 
 This project also lacks comprehensive documentation and most likely will not be updated or developed any further.
 
 
-### All open weather data and FMIODATA logo belong to Finnish Meteorological Institute or Ilmatieteen laitos: https://www.ilmatieteenlaitos.fi/avoin-data
+### All open weather data used in this project and FMIODATA logo belong to Finnish Meteorological Institute or Ilmatieteen laitos: https://www.ilmatieteenlaitos.fi/avoin-data
 
 ## This project is made for personal experimental and educational purposes.
