@@ -4,6 +4,7 @@
 
 ![alt text](https://github.com/miikaw/weatherwidget/blob/main/imgs/WidgetBeta.jpg?raw=true)
 
+![alt text](https://github.com/miikaw/weatherwidget/blob/main/imgs/WeatherSymbols.gif?raw=true)
 
 ## Usage
 
